@@ -1,5 +1,5 @@
 
-ShopEscape is a simple e-commerce website built using HTML, CSS, and JavaScript. The project demonstrates a basic layout of an online shopping platform with a focus on front-end development. While most of the website is static, the "Bag" button is functional, allowing users to add items to their shopping cart.
+Simpleshop is a simple e-commerce website built using HTML, CSS, and JavaScript. The project demonstrates a basic layout of an online shopping platform with a focus on front-end development. While most of the website is static, the "Bag" button is functional, allowing users to add items to their shopping cart.
 
 Features->
 Home Page: A landing page that showcases various products.
