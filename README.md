@@ -1,4 +1,7 @@
 🛍️ SimpleShop
+
+
+
 SimpleShop is a clean and minimal e-commerce website built using HTML, CSS, and JavaScript. Designed with a focus on front-end development, this project showcases the basic structure and layout of a shopping platform. While most of the site is currently static, the "Bag" button is functional, allowing users to interact with a simple shopping cart.
 
 <!-- You can replace this with a real banner image URL -->
